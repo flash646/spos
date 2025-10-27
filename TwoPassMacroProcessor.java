@@ -130,3 +130,14 @@ public class TwoPassMacroProcessor {
         System.out.println("\n=== Code Execution Successful ===");
     }
 }
+
+/*
+MACRO          
+INCR &ARG1
+ADD &ARG, =1
+MEND
+START
+INCR A
+END
+END_OF_CODE
+*/
