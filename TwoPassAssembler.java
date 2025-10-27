@@ -136,3 +136,18 @@ public class TwoPassAssembler {
         }
     }
 }
+
+/*
+START 100
+> LOOP MOV A
+> ADD B
+> SUB C
+> MUL D
+> JMP LOOP
+> HLT
+> A DC 1
+> B DC 2
+> C DC 3
+> D DC 4
+> END
+*/
