@@ -1,0 +1,7 @@
+• Planned Value (PV): The budgeted cost for the work planned to be completed by a certain point. 
+• Earned Value (EV): The budgeted cost of the work that has actually been completed by a specific point. 
+• Actual Cost (AC): The actual cost incurred for the work completed by a specific point. 
+• Schedule Variance (SV): SV = EV - PV 
+• Cost Variance (CV): CV = EV - AC 
+• Cost Performance Index (CPI): A ratio of earned value to actual cost. CPI = EV/AC 
+• Schedule Performance Index (SPI): A ratio of earned value to planned value. SPI = EV/PV 
